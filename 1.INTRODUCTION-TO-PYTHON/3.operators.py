@@ -1,1 +1,0 @@
-#different types of operatiors in python
